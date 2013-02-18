@@ -1,0 +1,3 @@
+[submodule "modules/devel-memused"]
+	path = modules/devel-memused
+	url = git@github.com:jozef/devel-memused.git
